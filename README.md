@@ -1,3 +1,3 @@
-# YI-OfficialWebsite
-These are the program files for the company website.
+# sjs-OfficialWebsite
+These are the program files for the personal website.
 

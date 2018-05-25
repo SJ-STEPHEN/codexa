@@ -1,3 +1,3 @@
-# SJS-OfficialWebsite
-These are the program files for the personal website.
+# Codexa-OfficialWebsite
+These are the program files for the company website.
 
